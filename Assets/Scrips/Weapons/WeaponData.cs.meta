@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 54d4f0c6dbc132c40a846786a4462b28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WeaponSprite: {instanceID: 0}
+  - WeaponPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

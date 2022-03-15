@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d4f0c6dbc132c40a846786a4462b28, type: 3}
+  m_Name: DesertEagle
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: c38b4d1901857614bbcfd8d34e13c8ec, type: 3}
+  WeaponName: DesertEagle
+  Description: "\u6C99\u6F20\u4E4B\u9E70\u7F62\u4E86"
+  WeaponPrefab: {fileID: 2233230045448813219, guid: a08d7fd5e994b524db25aa231f42b88d, type: 3}
+  UsingBullet: {fileID: 11400000, guid: fc16590f103a15f4f967a707b72a59e2, type: 2}
+  shootingStrength: 35
+  UseSpeed: 0.3
+  Damege: 45
+  KnockBack: 10
+  SelfKnockBack: 1
+  ReloadTime: 2.5
+  MaxBulletNum: 7

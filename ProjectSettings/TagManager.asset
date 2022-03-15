@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullets
+  - StaticObject
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - platform
+  - Player
+  - NPC
+  - FireArea
+  - PlayerDownPlatForms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3784824513
+    locked: 0
+  - name: Platform
+    uniqueID: 1927214225
+    locked: 0
+  - name: Items
+    uniqueID: 1677438281
+    locked: 0
+  - name: NPC
+    uniqueID: 1566090057
+    locked: 0
+  - name: Weapons
+    uniqueID: 3791547707
+    locked: 0
+  - name: Projections
+    uniqueID: 3639729301
+    locked: 0
+  - name: UI
+    uniqueID: 3497487629
+    locked: 0

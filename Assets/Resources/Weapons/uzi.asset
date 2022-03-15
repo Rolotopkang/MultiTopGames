@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d4f0c6dbc132c40a846786a4462b28, type: 3}
+  m_Name: uzi
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: 1d88b51f7f8b05547b1662e9680f4b47, type: 3}
+  WeaponName: Uzi
+  Description: "\u6C61\u6E0D\u4E0D\u884C"
+  WeaponPrefab: {fileID: 848011737129886112, guid: 366b1126c97199e4382e0ae2e02abe17, type: 3}
+  UsingBullet: {fileID: 11400000, guid: fc16590f103a15f4f967a707b72a59e2, type: 2}
+  shootingStrength: 40
+  UseSpeed: 0.1
+  Damege: 20
+  KnockBack: 1
+  SelfKnockBack: 0
+  ReloadTime: 1.5
+  MaxBulletNum: 21

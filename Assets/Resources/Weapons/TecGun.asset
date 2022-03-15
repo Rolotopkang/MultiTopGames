@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d4f0c6dbc132c40a846786a4462b28, type: 3}
+  m_Name: TecGun
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: c349bb95cc3af0148a0748a716586c97, type: 3}
+  WeaponName: TecGun
+  Description: 'maskdude''s weapon '
+  WeaponPrefab: {fileID: 7819071149996186109, guid: 342e580a261127d45abb6a6261b695b5, type: 3}
+  UsingBullet: {fileID: 11400000, guid: a38fdcb43a08f6b4ab9bff7d81031d96, type: 2}
+  shootingStrength: 35
+  UseSpeed: 0.2
+  Damege: 60
+  KnockBack: 0
+  SelfKnockBack: 5
+  ReloadTime: 1.5
+  MaxBulletNum: 21

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e7800fb9bcdec04c8e7973a0f869cae, type: 3}
+  m_Name: Rocket
+  m_EditorClassIdentifier: 
+  bulletDamage: 50
+  bulletName: Rocket
+  description: Rocket
+  BulletPrefab: {fileID: 7185025791909073849, guid: 3ffdbea46fc4ec448bdbe0b11dd58162, type: 3}

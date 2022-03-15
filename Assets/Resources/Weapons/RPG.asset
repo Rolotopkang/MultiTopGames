@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d4f0c6dbc132c40a846786a4462b28, type: 3}
+  m_Name: RPG
+  m_EditorClassIdentifier: 
+  WeaponSprite: {fileID: 21300000, guid: a52859f4469ae7845997432bf9c6c559, type: 3}
+  WeaponName: RPG
+  Description: boom
+  WeaponPrefab: {fileID: 5721199116689170225, guid: 270632a595ba03245bb90eb4bed9200a, type: 3}
+  UsingBullet: {fileID: 11400000, guid: bd4fabdd83bf3eb459f90dce1ec1cd91, type: 2}
+  shootingStrength: 60
+  UseSpeed: 2
+  Damege: 100
+  KnockBack: 20
+  SelfKnockBack: 10
+  ReloadTime: 5
+  MaxBulletNum: 1
