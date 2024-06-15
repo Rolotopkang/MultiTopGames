@@ -18,8 +18,8 @@ MonoBehaviour:
   WeaponPrefab: {fileID: 7819071149996186109, guid: 342e580a261127d45abb6a6261b695b5, type: 3}
   UsingBullet: {fileID: 11400000, guid: a38fdcb43a08f6b4ab9bff7d81031d96, type: 2}
   shootingStrength: 35
-  UseSpeed: 0.2
-  Damege: 60
+  UseSpeed: 0.01
+  Damege: 0
   KnockBack: 0
   SelfKnockBack: 5
   ReloadTime: 1.5
